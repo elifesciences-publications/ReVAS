@@ -4,6 +4,9 @@ Retinal Video Analysis Suite: a utility for generating reference frames and extr
 
 *Note that this work is still in progress, and a citable paper will be associated with ReVAS in the near future.*
 
+Associated with the paper from Wang et al., "Human foveal cone photoreceptor topography and its dependence on eye length". eLife, 2017. http://dx.doi.org/10.7554/eLife.47148
+
+
 Software requirements (to run from source code): 
 Matlab, Image Processing Toolbox, Statistics and Machine Learning Toolbox, Computer Vision Systems Toolbox, Parallel Computing Toolbox.
 
